@@ -1,3 +1,13 @@
+preQuaTest
+Web3bridge pre qualification test
+
+How this is solved A form is created to collect riders input with riders interes, the form contains rider name and the amount the are willing to save in options
+
+explanation on the codes are well detailed for maintenance or modification
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
